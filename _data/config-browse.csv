@@ -4,4 +4,4 @@ creator,Creator,,,
 subject,,true
 description,Description,,,
 collector,,true
-location,,true
+location,,false
