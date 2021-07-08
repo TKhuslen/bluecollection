@@ -25,3 +25,7 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
+## About the Collector
+
+Shane Ralston, the collector of the exhibit, is based in Long Beach CA, and he also has a fashion line called Buttstain that was founded in the late 1990s.
+
