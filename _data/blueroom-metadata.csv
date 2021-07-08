@@ -1,27 +1,32 @@
-objectid,filename,title,format,description,subject,source,creator,date,collector,location,latitude,longtitude
-object01,IMG_1894.jpeg,Doofy,image/jpeg,,"Clay Doll; Doofy; Cartoon; Clay Sculpture",,Shane Ralston,1989,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object02,IMG_1896.jpeg,3 faced doll,image/jpeg,,"Vintage; doll; three faced doll",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object03,IMG_1898.jpeg,Socks elephant doll,image/jpeg,,"Handmade; vintage doll; elephant doll; socks doll",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object04,IMG_1899.jpeg,West African Traditional Tribal Mask,image/jpeg,,"Tribal Mask; African Tradition",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object05,IMG_1903.jpeg,Tiki God,image/jpeg,,"Tiki; God; Hawaii",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object06,IMG_1919.jpeg,Butch’s Ceramic Bedside Kangaroo,image/jpeg,Original item from the set of Pulp Fiction,"Movie prop; Kangaroo; Pulp Fiction; Quentin Tarantino ",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object07,IMG_1906.jpeg,Baby with Ram's Horn,image/jpeg,,"Clay Doll; Ram Horn",,Shane Ralston,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object08,IMG_1913.jpeg,Terracotta Soldier,image/jpeg,,"Terracotta Army; Mausoleum Site Museum, ",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object09,IMG_1915.jpeg,Matador Music Box,image/jpeg,,"Music Box; Matador; Mexico; Souvenir",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object10,IMG_1916.jpeg,Cuba: I am Time Box,image/jpeg,,"Cuba; I am Time; Box",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object12,IMG_1926.jpeg,Walrus Skin Doctor's Bag,image/jpeg,,"Vintage; Walrus bag; Doctor's bag",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object13,IMG_1927.jpeg,Lip Plate Sculpture,image/jpeg,,"Lip Plate; Sculpture; Jewelry stand",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object14,IMG_1928.jpeg,Cat Head,image/jpeg,,"Cat; Cat head; helmet",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object15,IMG_1929.jpeg,Devil Fighting Jesus Painting,image/jpeg,,Painting,,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object16,IMG_1930.jpeg,Two cocks fighting,image/jpeg,,,,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object17,IMG_1934.jpeg,Stuffed Dog Wall Mount,image/jpeg,,Wall Mount,,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object18,IMG_1937.jpeg,Jesus with lit eyes and heart,image/jpeg,,,,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object19,IMG_1940.jpeg,Bullfighting velvet painting set,image/jpeg,,"Velvet Painting; Bullfighting; Vase",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object20,IMG_1942.jpeg,Clay Mask 1,image/jpeg,,"Cartoon; Clay; Mask",,Shane Ralston,1997,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object21,IMG_1948.jpeg,Clay Mask 2,image/jpeg,,"Cartoon; Clay; Mask",,Shane Ralston,1997,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object22,IMG_1949.jpeg,Clay Mask 3,image/jpeg,,"Cartoon; Clay; Mask",,Shane Ralston,1997,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object23,IMG_1950.jpeg,Clay Mask 4,image/jpeg,,"Cartoon, Clay; Mask",,Shane Ralston,1997,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object24,IMG_1951.jpeg,Globe,image/jpeg,,"Globe; table; turning",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object25,IMG_1954.jpeg,Potion container,image/jpeg,,"potion; skull",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object26,IMG_1955.jpeg,Anti Skull,image/jpeg,,"skull; anti; buttstain",,,,Shane Ralson,"Signal Hill, CA",33.79175,-118.15295
-object27,IMG_1956.jpeg,Encased skull,image/jpeg,,"encase; skull",,,,,,,
+objectid,filename,title,format,description,subject,creator,date,collector,material,,,location,latitude,longtitude
+object01,IMG_1894.jpeg,Doofy,image / jpeg,First attempt at making a fabric body art doll in reminiscent in the style of vintage porcelain head art feet dolls ,"Clay Doll, Doofy, Cartoon, Clay Sculpture",Shane Ralston,1987,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object02.1,IMG_1895.jpeg,3 faced doll - Sleepy,image / jpeg,"Found object, donated to you by close friend - Jeff Chandler ","Vintage, doll, three faced doll",,2015,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object02.2,IMG_1896.jpeg,3 faced doll - Angry,image / jpeg,"Found object, donated to you by close friend - Jeff Chandler ","Vintage, doll, three faced doll",,2015,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object02.3,IMG_1897.jpeg,3 faced doll - Sad,image / jpeg,"Found object, donated to you by close friend - Jeff Chandler ","Vintage, doll, three faced doll",,2015,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object03,IMG_1898.jpeg,Socks elephant doll,image / jpeg,"Handed down by mother, purchased through a craft kit and made it ","Handmade, vintage doll, elephant doll, socks doll",,1973,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object04,IMG_1899.jpeg,West African Traditional Tribal Mask,image / jpeg,"Acquired at a Flee Market (Swap Meet), the red face and the horns are the key features of the mask","Tribal Mask, African Tradition",,1998,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object05,IMG_1903.jpeg,Tiki God,image / jpeg,"Acquired at a vintage store in San Pedro - California, made out of a tiki tree carving wood called Monkey Pod","Tiki, God, Hawaii",,2005,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object06,IMG_1919.jpeg,Butch’s Ceramic Bedside Kangaroo,image / jpeg,A movie prop in imitation of a scene in Pulp Fiction,"Movie prop, Kangaroo, Pulp Fiction, Quentin Tarantino ",,2005,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object07,IMG_1906.jpeg,Baby with Ram's Horn,image / jpeg,Sculpture created by Shane Ralston,"Clay Doll, Ram Horn",Shane Ralston,1991,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object08,IMG_1913.jpeg,Terracotta Soldier,image / jpeg,Gifted by Amarjargal Dorjgotov ,"Terracotta Army, Mausoleum Site Museum, ",,2012,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object09,IMG_1915.jpeg,Matador Music Box,image / jpeg,"Acquired from eBay, bakelite and bronze ","Music Box, Matador, Mexico, Souvenir",,2017,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object10.1,IMG_1916.jpeg,Cuba: I am Time Box - closed,image / jpeg,Cigar Box,"Cuba, I am Time, Box",,N/A,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object10.2,IMG_1917.jpeg,Cuba: I am Time Box - half open,image / jpeg,Cigar Box,"Cuba, I am Time, Box",,N/A,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object10.3,IMG_1918.jpeg,Cuba: I am Time Box - open ,image / jpeg,Cigar Box,"Cuba, I am Time, Box",,N/A,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object12.1,IMG_1922.jpeg,Walrus Skin Doctor's Bag - closed,image / jpeg,Found in the trash while working in cable,"Vintage, Walrus bag, Doctor's bag",,1982,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object12.2,IMG_1926.jpeg,Walrus Skin Doctor's Bag - open,image / jpeg,Found in the trash while working in cable,"Vintage, Walrus bag, Doctor's bag",,1982,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object13,IMG_1927.jpeg,Lip Plate Sculpture,image / jpeg,"Acquired at an antique store in Long Beach, friend Pizz had one ","Lip Plate, Sculpture, Jewelry stand",,1995,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object14,IMG_1928.jpeg,Cat Head,image / jpeg,Grocery store during Halloween,"Cat, Cat head, helmet",,2018,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object15,IMG_1929.jpeg,Devil Fighting Jesus Painting,image / jpeg,Evil against good,Painting,The Pizz,1991,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object16,IMG_1930.jpeg,Two cocks fighting,image / jpeg,"Cock Fight, Gravel Art",Gravel Art,JC ,1995,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object17,IMG_1934.jpeg,Stuffed Dog Wall Mount,image / jpeg,"Gifted by Pizz, synthetic stuffed plush toy",Wall Mount,,1996,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object18.1,IMG_1937.jpeg,Jesus with lit eyes and heart,image / jpeg,Acquired at vintage store in Long Beach with other religious icons. The eyes and the heart of Jesus lights up,"Vintage, Jesus, Religious",,2001,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object18.2,IMG_1939.jpeg,Jesus with lit eyes and heart,image / jpeg,Acquired at vintage store in Long Beach with other religious icons. The eyes and the heart of Jesus lights up,"Vintage, Jesus, Religious",,2001,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object19,IMG_1940.jpeg,Bullfighting velvet painting set,image / jpeg,,"Velvet Painting, Bullfighting, Vase",,,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object20,IMG_1942.jpeg,Melty ,image / jpeg,Clay/ Ceramic mask,"Cartoon, Clay, Mask",Shane Ralston,1997,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object21,IMG_1948.jpeg,Modern Primitive African,image / jpeg,Clay/ Ceramic mask,"Cartoon, Clay, Mask",Shane Ralston,1997,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object22,IMG_1949.jpeg,The Clairvoyant ,image / jpeg,Clay/ Ceramic mask,"Cartoon, Clay, Mask",Shane Ralston,1997,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object23,IMG_1950.jpeg,Clowny,image / jpeg,Clay / Ceramic mask,"Cartoon, Clay, Mask",Shane Ralston,1997,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object25,IMG_1954.jpeg,Potion container,image / jpeg,Ceramic potion container,"potion, skull",,1996,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object26,IMG_1955.jpeg,Anti Skull,image / jpeg,Traded his own extreme baggy jeans for the skull,"skull, anti, buttstain",,1992,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
+object27,IMG_1956.jpeg,Encased skull,image / jpeg,Glass globe at a Swap meet and the skull was,"encase, skull",,2010,Shane Ralson,,,,"Signal Hill, CA",33.79175,-118.15295
